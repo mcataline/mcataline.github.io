@@ -1,0 +1,42 @@
+body {
+  background-color:red;
+}
+p {
+  color: black;
+  font-family:cursive;
+  background-color:white;
+  border-style: solid;
+  border-radius: 15px;
+}
+h2 {
+  font-weight: bold;
+  text-decoration: underline;
+  font-family: cursive;
+  color:black;
+  border-color: black;
+  border-width: thick;
+  border-radius: 15px;
+  margin-right: 300px;
+}
+h4 {
+  font-weight: bold;
+  font-family: cursive;
+  color:black;
+  margin-right: 300px;
+  text-decoration: underline;
+}
+li {
+  font-family: cursive;
+  background-color: white;
+  border-style:solid;
+  border-radius: 10px;
+  margin-left: -27px;
+}
+img{
+  border-style:solid;
+  border-width:large;
+  border-radius: 10px;
+  border color: floralwhite;
+  {
+  
+    
